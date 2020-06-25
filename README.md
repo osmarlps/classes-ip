@@ -2,9 +2,9 @@
 Trabalho de aplicações Web II
 
 # Integrantes
-1. Osmar Lopes de Melo de Lima
-2. Vinicius de Araujo Diniz
-3. Gabriel Goes
+* Osmar Lopes de Melo de Lima
+* Vinicius de Araujo Diniz
+* Gabriel Goes
 
 # Instruções
 1. Extraia o diretório servidor
