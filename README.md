@@ -2,6 +2,6 @@
 Trabalho de aplicações Web II
 
 # Integrantes
-Osmar Lopes de Melo de Lima\n
-Vinicius de Araujo Diniz
-Gabriel Goes
+1. Osmar Lopes de Melo de Lima
+2. Vinicius de Araujo Diniz
+3. Gabriel Goes
